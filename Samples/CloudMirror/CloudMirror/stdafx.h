@@ -26,6 +26,7 @@
 #include <cfapi.h>
 #include <ntstatus.h>
 #include <sddl.h>
+#include <winrt\Windows.Foundation.Collections.h>
 #include <winrt\windows.storage.provider.h>
 #include <winrt\Windows.Security.Cryptography.h>
 #include <ppltasks.h>

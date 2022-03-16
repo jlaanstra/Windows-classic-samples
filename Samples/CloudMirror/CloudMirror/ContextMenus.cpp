@@ -7,6 +7,7 @@
 
 #include "stdafx.h"
 #include "ContextMenus.h"
+#include <winrt\Windows.Foundation.Collections.h>
 #include <winrt\Windows.Storage.Provider.h>
 
 namespace winrt
